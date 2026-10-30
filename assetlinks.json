@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.saimoon.ourlife",
+      "sha256_cert_fingerprints": [
+        "AD:AC:9B:E8:EC:98:E9:DD:49:08:70:C4:3E:8B:2E:D1:12:94:24:25:75:A6:D5:96:19:7E:ED:34:86:3B:AC:F3"
+      ]
+    }
+  }
+]
